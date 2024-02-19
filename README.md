@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## Get in Touch
 
-- 📧 Email: hrudayananda@example.com
+- 📧 Email: hrudayanandasahu3@gmail.com
 - 🔗 LinkedIn: [hrudayanandasahu](https://www.linkedin.com/in/hrudayanandasahu/)
 
 Feel free to explore my repositories and let's connect! 🚀
