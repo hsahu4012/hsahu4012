@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## Projects
 
-- 🚀 [Project 1: Project Name](#) - Brief description.
-- 🌐 [Project 2: Project Name](#) - Brief description.
+- 🚀 [Project 1: Foodi(#)] - Brief description.
+- 🌐 [Project 2: Portfolio Website](#)] - Brief description.
 - ⚙️ [Project 3: Project Name](#) - Brief description.
 
 ## Get in Touch
