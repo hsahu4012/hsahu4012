@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hsahu4012/](https://github.com/hsahu4012/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Java, Springboot, MySQL**
 
 - 📫 How to reach me **work.hsahu@gmail.com**
 
